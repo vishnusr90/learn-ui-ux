@@ -71,3 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 npm install react-icons
+
+Get gradient 
+angrytools.com/gradient/
